@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&family=JetBrains+Mono&family=Noto+Sans&family=Times+New+Roman&display=swap');
+
+h1 {
+  @apply font-julius;
+}
+
+h2 {
+  @apply font-jetbrains;
+}
+
+h3 {
+  @apply font-noto;
+}
+
+h4 {
+  @apply font-times;
+}
